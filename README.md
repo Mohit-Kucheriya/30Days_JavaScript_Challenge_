@@ -24,7 +24,7 @@ Each day's challenge includes:
 | 5     | Functions               |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/a57beb95c02ea93cc33a3ff9bfc05168c51d83fa/Day5/script.js)    |
 | 6     | Arrays                  |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/49374daadd8d335689e742e0ee56db3c12ca60bb/Day6/script.js)    |
 | 7     | Objects                 |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/8ee05658633ff4de7ab48f91c34624d1879101d8/Day7/script.js)    |
-| 8     |                         |                                    |
+| 8     | ES6+ Features           |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/6de0f1f4e9430749d1c004f8091c9a08e4fd59fb/Day8/script.js)    |
 | 9     |                         |                                    |
 | 10    |                         |                                    |
 | 11    |                         |                                    |
