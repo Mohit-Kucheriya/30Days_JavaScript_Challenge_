@@ -28,7 +28,7 @@ Each day's challenge includes:
 | 9     | DOM Manipulation        |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/72f32a360972796be98ed940ebdb0a85d593e404/Day9/script.js)    |
 | 10    | Event Handling          |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/790bb067171900abd0492a38b1fbb61c1ca775c8/Day10/script.js)   |
 | 11    | Promises and Async/Await|  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/b69ba9652e352e44b1c4a3e0744cc62366ebaf5b/Day11/script.js)   |
-| 12    |                         |                                    |
+| 12    | Error Handling          |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/45a7d277dd2f575c8e3032b4a01292fb088a9b58/Day12/script.js)   |
 | 13    |                         |                                    |
 | 14    |                         |                                    |
 | 15    |                         |                                    |
