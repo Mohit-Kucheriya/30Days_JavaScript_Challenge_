@@ -66,3 +66,4 @@ function createArray(n) {
 let getArray = createArray(5);
 console.log(getArray);
 getArray[0]();
+
