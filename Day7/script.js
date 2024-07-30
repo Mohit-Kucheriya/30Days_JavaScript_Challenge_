@@ -96,3 +96,4 @@ key.forEach((key) => console.log(key));
 let values = Object.values(objBook);
 console.log(values);
 values.forEach((value) => console.log(value));
+
