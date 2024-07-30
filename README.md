@@ -18,13 +18,13 @@ Each day's challenge includes:
 | Day   | Topics                  | Link                                                                                                                                    |
 | ---   | ----------------------- |  --------------------------------                                                                                                       |
 | 1     | Variables and Data Types|  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/2d4d47981bcf68317830a513bb433d34e0f47229/Day1/script.js)    |
-| 2     | Operators               |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/c245e3f2f6b2600f948bc8ab286f5d44205af39a/Day2/script.js)    |  
-| 3     | Control Structures      |  [↗️]( https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/5ad293841307373aa3dca0ceab168addf630aa7e/Day3/script.js )  |
-| 4     | Loops                   |  [↗️]( https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/09153f0e7f03f177d56fb27936d934cd6131f622/Day4/script.js )  |
-| 5     | Functions               |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/a57beb95c02ea93cc33a3ff9bfc05168c51d83fa/Day5/script.js)    |
-| 6     | Arrays                  |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/49374daadd8d335689e742e0ee56db3c12ca60bb/Day6/script.js)    |
-| 7     | Objects                 |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/8ee05658633ff4de7ab48f91c34624d1879101d8/Day7/script.js)    |
-| 8     | ES6+ Features           |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/6de0f1f4e9430749d1c004f8091c9a08e4fd59fb/Day8/script.js)    |
+| 2     | Operators               |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/4a5d520b35bb6cfacb9cbb175bb707ff0cb197b0/Day2/script.js)    |  
+| 3     | Control Structures      |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/4a5d520b35bb6cfacb9cbb175bb707ff0cb197b0/Day3/script.js)    |
+| 4     | Loops                   |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/4a5d520b35bb6cfacb9cbb175bb707ff0cb197b0/Day4/script.js)    |
+| 5     | Functions               |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/4a5d520b35bb6cfacb9cbb175bb707ff0cb197b0/Day5/script.js)    |
+| 6     | Arrays                  |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/4a5d520b35bb6cfacb9cbb175bb707ff0cb197b0/Day6/script.js)    |
+| 7     | Objects                 |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/4a5d520b35bb6cfacb9cbb175bb707ff0cb197b0/Day7/script.js)    |
+| 8     | ES6+ Features           |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/4a5d520b35bb6cfacb9cbb175bb707ff0cb197b0/Day8/script.js)    |
 | 9     | DOM Manipulation        |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/72f32a360972796be98ed940ebdb0a85d593e404/Day9/script.js)    |
 | 10    | Event Handling          |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/790bb067171900abd0492a38b1fbb61c1ca775c8/Day10/script.js)   |
 | 11    | Promises and Async/Await|  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/b69ba9652e352e44b1c4a3e0744cc62366ebaf5b/Day11/script.js)   |
