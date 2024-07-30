@@ -172,3 +172,4 @@ async function fetchingData() {
     }
 }
 fetchingData();
+
