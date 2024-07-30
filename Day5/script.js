@@ -106,3 +106,4 @@ let num = 5
 
 console.log(multipleFunc(addNum, multiplyNum, num))
 
+
