@@ -18,8 +18,8 @@ Each day's challenge includes:
 | Day   | Topics                  | Link                                                                                                                                    |
 | ---   | ----------------------- |  --------------------------------                                                                                                       |
 | 1     | Variables and Data Types|  [↗️](https://github.com/Mohit-Kucheriya/30Days_Javascript_Challenge_/blob/3f9976fb89084f3bb269a41d59343b7aa9dae3b6/Day1/script.js)    |
-| 2     |  Operators              |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/c245e3f2f6b2600f948bc8ab286f5d44205af39a/Day2/script.js)    |  
-| 3     |  Control Structures     |  [↗️]( https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/5ad293841307373aa3dca0ceab168addf630aa7e/Day3/script.js )  |
+| 2     | Operators               |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/c245e3f2f6b2600f948bc8ab286f5d44205af39a/Day2/script.js)    |  
+| 3     | Control Structures      |  [↗️]( https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/5ad293841307373aa3dca0ceab168addf630aa7e/Day3/script.js )  |
 | 4     | Loops                   |  [↗️]( https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/09153f0e7f03f177d56fb27936d934cd6131f622/Day4/script.js )  |
 | 5     | Functions               |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/a57beb95c02ea93cc33a3ff9bfc05168c51d83fa/Day5/script.js)    |
 | 6     | Arrays                  |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/49374daadd8d335689e742e0ee56db3c12ca60bb/Day6/script.js)    |
@@ -30,8 +30,8 @@ Each day's challenge includes:
 | 11    | Promises and Async/Await|  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/b69ba9652e352e44b1c4a3e0744cc62366ebaf5b/Day11/script.js)   |
 | 12    | Error Handling          |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/45a7d277dd2f575c8e3032b4a01292fb088a9b58/Day12/script.js)   |
 | 13    | Modules                 |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/285fea908dd94e835405ce9a5be805515fea832e/Day13/script1.js)  |
-| 14    | Classes                 |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/0bbf913f7fba60cd65d6ee9ec2b350afc29f19d2/Day14/script.js)  |
-| 15    |                         |                                    |
+| 14    | Classes                 |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/0bbf913f7fba60cd65d6ee9ec2b350afc29f19d2/Day14/script.js)   |
+| 15    | Closures                |  [↗️](https://github.com/Mohit-Kucheriya/30Days_JavaScript_Challenge_/blob/19eb77207c3d83753bf07e2d6ed58b845ec8f852/Day15/script.js)   |
 | 16    |                         |                                    |
 | 17    |                         |                                    |
 | 18    |                         |                                    |
